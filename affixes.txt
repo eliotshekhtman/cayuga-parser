@@ -1,0 +1,43 @@
+PREFIX: de 
+MEANING: dual
+
+PREFIX: o 
+MEANING: basic noun prefix (neuter)
+CONSTRAINT: structural
+
+PREFIX: ga 
+MEANING: basic noun prefix (neuter)
+CONSTRAINT: structural
+
+PREFIX: ag 
+MEANING: my (possessive)
+
+PREFIX: go 
+MEANING: her (possessive)
+
+PREFIX: ho 
+MEANING: his (possessive)
+
+SUFFIX: e 
+MEANING: basic noun suffix 
+CONSTRAINT: structural
+
+SUFFIX: e' 
+MEANING: basic noun suffix 
+CONSTRAINT: structural
+
+SUFFIX: a'geh 
+MEANING: external locative suffix (on (/in))
+CONSTRAINT: structural,locative 
+
+SUFFIX: e'geh 
+MEANING: external locative suffix (on (/in))
+CONSTRAINT: structural,locative
+
+SUFFIX: ago 
+MEANING: internal locative suffix (in (/under))
+CONSTRAINT: structural,locative 
+
+SUFFIX: go 
+MEANING: internal locative suffix (in (/under))
+CONSTRAINT: structural,locative

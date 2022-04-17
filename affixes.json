@@ -1,0 +1,195 @@
+{
+  "prefixes": [
+    {
+      "realization": "o",
+      "meaning": "neuter prefix",
+      "environments": [
+        "structural"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "ga",
+      "meaning": "neuter prefix",
+      "environments": [
+        "structural"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "ag",
+      "meaning": "my (possessive)",
+      "environments": [
+        "structural",
+        "possessive"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "go",
+      "meaning": "her (possessive)",
+      "environments": [
+        "structural",
+        "possessive"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "ho",
+      "meaning": "his (possessive)",
+      "environments": [
+        "structural",
+        "possessive"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "ha",
+      "meaning": "he",
+      "environments": [
+        "animate"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "ho",
+      "meaning": "he",
+      "environments": [
+        "animate"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "e",
+      "meaning": "she",
+      "environments": [
+        "animate"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "go",
+      "meaning": "she",
+      "environments": [
+        "animate"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "de",
+      "meaning": "dualic prefix",
+      "environments": [
+        "animate",
+        "plural"
+      ],
+      "argument": "attributive"
+    },
+    {
+      "realization": "hadi",
+      "meaning": "masculine plural agent pronominal prefix",
+      "environments": [
+        "animate",
+        "plural"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "gae",
+      "meaning": "feminine plural agent pronominal prefix",
+      "environments": [
+        "animate",
+        "plural"
+      ],
+      "argument": "basic"
+    }
+  ],
+  "suffixes": [
+    {
+      "realization": "e",
+      "meaning": "noun suffix",
+      "environments": [
+        "structural"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "e'",
+      "meaning": "noun suffix",
+      "environments": [
+        "structural"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "a'",
+      "meaning": "noun suffix",
+      "environments": [
+        "structural"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "a'geh",
+      "meaning": "external locative (on (/in))",
+      "environments": [
+        "structural",
+        "locative"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "e'geh",
+      "meaning": "external locative (on (/in))",
+      "environments": [
+        "structural",
+        "locative"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "ago",
+      "meaning": "internal locative (in/under)",
+      "environments": [
+        "structural",
+        "locative"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "go",
+      "meaning": "internal locative (in/under)",
+      "environments": [
+        "structural",
+        "locative"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "ak'ah",
+      "meaning": "locative (near)",
+      "environments": [
+        "structural",
+        "locative"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "akdagye'",
+      "meaning": "locative (along/alongside)",
+      "environments": [
+        "structural",
+        "locative"
+      ],
+      "argument": "basic"
+    },
+    {
+      "realization": "ekdagye'",
+      "meaning": "locative (along/alongside)",
+      "environments": [
+        "structural",
+        "locative"
+      ],
+      "argument": "basic"
+    }
+  ]
+}

@@ -1,0 +1,2321 @@
+{
+  "nouns": [
+    {
+      "realization": "'ahdra",
+      "meaning": "basket",
+      "category": "structural"
+    },
+    {
+      "realization": "'ahdr",
+      "meaning": "basket",
+      "category": "structural"
+    },
+    {
+      "realization": "ahdra",
+      "meaning": "basket",
+      "category": "structural"
+    },
+    {
+      "realization": "ahdr",
+      "meaning": "basket",
+      "category": "structural"
+    },
+    {
+      "realization": "'ahdronih",
+      "meaning": "witch hazel",
+      "category": "structural"
+    },
+    {
+      "realization": "ahdronih",
+      "meaning": "witch hazel",
+      "category": "structural"
+    },
+    {
+      "realization": "'gehohkwa'",
+      "meaning": "ammunition",
+      "category": "structural"
+    },
+    {
+      "realization": "gehohkwa'",
+      "meaning": "ammunition",
+      "category": "structural"
+    },
+    {
+      "realization": "'akso'",
+      "meaning": "machine gun",
+      "category": "structural"
+    },
+    {
+      "realization": "akso'",
+      "meaning": "machine gun",
+      "category": "structural"
+    },
+    {
+      "realization": "'ahsaw",
+      "meaning": "chest, cough",
+      "category": "structural"
+    },
+    {
+      "realization": "'ahsa",
+      "meaning": "chest, cough",
+      "category": "structural"
+    },
+    {
+      "realization": "hsaw",
+      "meaning": "chest, cough",
+      "category": "structural"
+    },
+    {
+      "realization": "hsa",
+      "meaning": "chest, cough",
+      "category": "structural"
+    },
+    {
+      "realization": "'ahsaw'e",
+      "meaning": "have asthma",
+      "category": "structural"
+    },
+    {
+      "realization": "hsaw'e",
+      "meaning": "have asthma",
+      "category": "structural"
+    },
+    {
+      "realization": "'da",
+      "meaning": "clay, mortar",
+      "category": "structural"
+    },
+    {
+      "realization": "'d",
+      "meaning": "clay, mortar",
+      "category": "structural"
+    },
+    {
+      "realization": "da",
+      "meaning": "clay, mortar",
+      "category": "structural"
+    },
+    {
+      "realization": "d",
+      "meaning": "clay, mortar",
+      "category": "structural"
+    },
+    {
+      "realization": "'da",
+      "meaning": "feces, shit, excrement",
+      "category": "structural"
+    },
+    {
+      "realization": "'d",
+      "meaning": "feces, shit, excrement",
+      "category": "structural"
+    },
+    {
+      "realization": "da",
+      "meaning": "feces, shit, excrement",
+      "category": "structural"
+    },
+    {
+      "realization": "d",
+      "meaning": "feces, shit, excrement",
+      "category": "structural"
+    },
+    {
+      "realization": "'daged",
+      "meaning": "undergarment, soil, feces",
+      "category": "structural"
+    },
+    {
+      "realization": "daged",
+      "meaning": "undergarment, soil, feces",
+      "category": "structural"
+    },
+    {
+      "realization": "'dai'",
+      "meaning": "dirty",
+      "category": "structural"
+    },
+    {
+      "realization": "dai'",
+      "meaning": "dirty",
+      "category": "structural"
+    },
+    {
+      "realization": "'dai'",
+      "meaning": "brick",
+      "category": "structural"
+    },
+    {
+      "realization": "dai'",
+      "meaning": "brick",
+      "category": "structural"
+    },
+    {
+      "realization": "'daihehdrod",
+      "meaning": "sweat",
+      "category": "structural"
+    },
+    {
+      "realization": "daihehdrod",
+      "meaning": "sweat",
+      "category": "structural"
+    },
+    {
+      "realization": "'daisdo'",
+      "meaning": "intercourse",
+      "category": "structural"
+    },
+    {
+      "realization": "daisdo'",
+      "meaning": "intercourse",
+      "category": "structural"
+    },
+    {
+      "realization": "'danyo",
+      "meaning": "beat up",
+      "category": "structural"
+    },
+    {
+      "realization": "danyo",
+      "meaning": "beat up",
+      "category": "structural"
+    },
+    {
+      "realization": "'daoni",
+      "meaning": "dirty, muddy",
+      "category": "structural"
+    },
+    {
+      "realization": "daoni",
+      "meaning": "dirty, muddy",
+      "category": "structural"
+    },
+    {
+      "realization": "'dawenye'",
+      "meaning": "shit-disturber",
+      "category": "structural"
+    },
+    {
+      "realization": "dawenye'",
+      "meaning": "shit-disturber",
+      "category": "structural"
+    },
+    {
+      "realization": "'dodra",
+      "meaning": "fat, gristle, rind",
+      "category": "structural"
+    },
+    {
+      "realization": "'dodr",
+      "meaning": "fat, gristle, rind",
+      "category": "structural"
+    },
+    {
+      "realization": "dodra",
+      "meaning": "fat, gristle, rind",
+      "category": "structural"
+    },
+    {
+      "realization": "dodr",
+      "meaning": "fat, gristle, rind",
+      "category": "structural"
+    },
+    {
+      "realization": "'dohne'",
+      "meaning": "pregnant animal",
+      "category": "structural"
+    },
+    {
+      "realization": "dohne'",
+      "meaning": "pregnant animal",
+      "category": "structural"
+    },
+    {
+      "realization": "'dra",
+      "meaning": "case, quiver",
+      "category": "structural"
+    },
+    {
+      "realization": "'dr",
+      "meaning": "case, quiver",
+      "category": "structural"
+    },
+    {
+      "realization": "dra",
+      "meaning": "case, quiver",
+      "category": "structural"
+    },
+    {
+      "realization": "dr",
+      "meaning": "case, quiver",
+      "category": "structural"
+    },
+    {
+      "realization": "'dragenyohs",
+      "meaning": "archery",
+      "category": "structural"
+    },
+    {
+      "realization": "dragenyohs",
+      "meaning": "archery",
+      "category": "structural"
+    },
+    {
+      "realization": "'drahehsd",
+      "meaning": "overdo, exaggerate",
+      "category": "structural"
+    },
+    {
+      "realization": "drahehsd",
+      "meaning": "overdo, exaggerate",
+      "category": "structural"
+    },
+    {
+      "realization": "'drahehsdoh",
+      "meaning": "be extreme",
+      "category": "structural"
+    },
+    {
+      "realization": "drahehsdoh",
+      "meaning": "be extreme",
+      "category": "structural"
+    },
+    {
+      "realization": "'drehda",
+      "meaning": "vehicle, car, truck",
+      "category": "structural"
+    },
+    {
+      "realization": "'drehd",
+      "meaning": "vehicle, car, truck",
+      "category": "structural"
+    },
+    {
+      "realization": "drehda",
+      "meaning": "vehicle, car, truck",
+      "category": "structural"
+    },
+    {
+      "realization": "drehd",
+      "meaning": "vehicle, car, truck",
+      "category": "structural"
+    },
+    {
+      "realization": "'drehdahkwa'",
+      "meaning": "jack, tow truck, hoist",
+      "category": "structural"
+    },
+    {
+      "realization": "drehdahkwa'",
+      "meaning": "jack, tow truck, hoist",
+      "category": "structural"
+    },
+    {
+      "realization": "'drehdonihs",
+      "meaning": "mechanic",
+      "category": "structural"
+    },
+    {
+      "realization": "drehdonihs",
+      "meaning": "mechanic",
+      "category": "structural"
+    },
+    {
+      "realization": "'dre's",
+      "meaning": "car",
+      "category": "structural"
+    },
+    {
+      "realization": "dre's",
+      "meaning": "car",
+      "category": "structural"
+    },
+    {
+      "realization": "'dre",
+      "meaning": "put together",
+      "category": "structural"
+    },
+    {
+      "realization": "dre",
+      "meaning": "put together",
+      "category": "structural"
+    },
+    {
+      "realization": "'dro",
+      "meaning": "put together",
+      "category": "structural"
+    },
+    {
+      "realization": "dro",
+      "meaning": "put together",
+      "category": "structural"
+    },
+    {
+      "realization": "'driyo",
+      "meaning": "be a good shot",
+      "category": "structural"
+    },
+    {
+      "realization": "driyo",
+      "meaning": "be a good shot",
+      "category": "structural"
+    },
+    {
+      "realization": "'dro",
+      "meaning": "live, dwell, be at home",
+      "category": "structural"
+    },
+    {
+      "realization": "dro",
+      "meaning": "live, dwell, be at home",
+      "category": "structural"
+    },
+    {
+      "realization": "'dro",
+      "meaning": "elect",
+      "category": "structural"
+    },
+    {
+      "realization": "dro",
+      "meaning": "elect",
+      "category": "structural"
+    },
+    {
+      "realization": "'dro'",
+      "meaning": "otter",
+      "category": "structural"
+    },
+    {
+      "realization": "dro'",
+      "meaning": "otter",
+      "category": "structural"
+    },
+    {
+      "realization": "'dro",
+      "meaning": "put together, be crossed",
+      "category": "structural"
+    },
+    {
+      "realization": "dro",
+      "meaning": "put together, be crossed",
+      "category": "structural"
+    },
+    {
+      "realization": "'dre",
+      "meaning": "put together, be crossed",
+      "category": "structural"
+    },
+    {
+      "realization": "dre",
+      "meaning": "put together, be crossed",
+      "category": "structural"
+    },
+    {
+      "realization": "'droda'",
+      "meaning": "land",
+      "category": "structural"
+    },
+    {
+      "realization": "droda'",
+      "meaning": "land",
+      "category": "structural"
+    },
+    {
+      "realization": "'droda'",
+      "meaning": "daiper",
+      "category": "structural"
+    },
+    {
+      "realization": "droda'",
+      "meaning": "daiper",
+      "category": "structural"
+    },
+    {
+      "realization": "'dro'de",
+      "meaning": "experience",
+      "category": "structural"
+    },
+    {
+      "realization": "dro'de",
+      "meaning": "experience",
+      "category": "structural"
+    },
+    {
+      "realization": "'drodo'",
+      "meaning": "several things, etc. placed somewhere",
+      "category": "structural"
+    },
+    {
+      "realization": "drodo'",
+      "meaning": "several things, etc. placed somewhere",
+      "category": "structural"
+    },
+    {
+      "realization": "'drohsra",
+      "meaning": "fat, rind",
+      "category": "structural"
+    },
+    {
+      "realization": "'drohsr",
+      "meaning": "fat, rind",
+      "category": "structural"
+    },
+    {
+      "realization": "drohsra",
+      "meaning": "fat, rind",
+      "category": "structural"
+    },
+    {
+      "realization": "drohsr",
+      "meaning": "fat, rind",
+      "category": "structural"
+    },
+    {
+      "realization": "'drohg",
+      "meaning": "thorn berry",
+      "category": "structural"
+    },
+    {
+      "realization": "drohg",
+      "meaning": "thorn berry",
+      "category": "structural"
+    },
+    {
+      "realization": "'e",
+      "meaning": "hit",
+      "category": "structural"
+    },
+    {
+      "realization": "e",
+      "meaning": "hit",
+      "category": "structural"
+    },
+    {
+      "realization": "'ehsd",
+      "meaning": "hit st belonging to s.o.",
+      "category": "structural"
+    },
+    {
+      "realization": "ehsd",
+      "meaning": "hit st belonging to s.o.",
+      "category": "structural"
+    },
+    {
+      "realization": "'ga",
+      "meaning": "tale, legend, parable, story",
+      "category": "structural"
+    },
+    {
+      "realization": "'g",
+      "meaning": "tale, legend, parable, story",
+      "category": "structural"
+    },
+    {
+      "realization": "ga",
+      "meaning": "tale, legend, parable, story",
+      "category": "structural"
+    },
+    {
+      "realization": "g",
+      "meaning": "tale, legend, parable, story",
+      "category": "structural"
+    },
+    {
+      "realization": "'gadoh",
+      "meaning": "tell a story",
+      "category": "structural"
+    },
+    {
+      "realization": "gadoh",
+      "meaning": "tell a story",
+      "category": "structural"
+    },
+    {
+      "realization": "'ged",
+      "meaning": "light-colored, white",
+      "category": "structural"
+    },
+    {
+      "realization": "ged",
+      "meaning": "light-colored, white",
+      "category": "structural"
+    },
+    {
+      "realization": "'ged",
+      "meaning": "transparent",
+      "category": "structural"
+    },
+    {
+      "realization": "ged",
+      "meaning": "transparent",
+      "category": "structural"
+    },
+    {
+      "realization": "'ged",
+      "meaning": "visible",
+      "category": "structural"
+    },
+    {
+      "realization": "ged",
+      "meaning": "visible",
+      "category": "structural"
+    },
+    {
+      "realization": "'ge'eh",
+      "meaning": "younger sibling",
+      "category": "structural"
+    },
+    {
+      "realization": "ge'eh",
+      "meaning": "younger sibling",
+      "category": "structural"
+    },
+    {
+      "realization": "'ge'eh",
+      "meaning": "last quarter moon",
+      "category": "structural"
+    },
+    {
+      "realization": "ge'eh",
+      "meaning": "last quarter moon",
+      "category": "structural"
+    },
+    {
+      "realization": "'gehedahkwa'",
+      "meaning": "a clothes brush",
+      "category": "structural"
+    },
+    {
+      "realization": "gehedahkwa'",
+      "meaning": "a clothes brush",
+      "category": "structural"
+    },
+    {
+      "realization": "'gehekwa'",
+      "meaning": "ashtray",
+      "category": "structural"
+    },
+    {
+      "realization": "gehekwa'",
+      "meaning": "ashtray",
+      "category": "structural"
+    },
+    {
+      "realization": "'grodi",
+      "meaning": "snow",
+      "category": "structural"
+    },
+    {
+      "realization": "grodi",
+      "meaning": "snow",
+      "category": "structural"
+    },
+    {
+      "realization": "'grogy",
+      "meaning": "snow",
+      "category": "structural"
+    },
+    {
+      "realization": "grogy",
+      "meaning": "snow",
+      "category": "structural"
+    },
+    {
+      "realization": "'gw",
+      "meaning": "run aay, flee",
+      "category": "structural"
+    },
+    {
+      "realization": "gw",
+      "meaning": "run aay, flee",
+      "category": "structural"
+    },
+    {
+      "realization": "'gwehegye's",
+      "meaning": "avoid",
+      "category": "structural"
+    },
+    {
+      "realization": "gwehegye's",
+      "meaning": "avoid",
+      "category": "structural"
+    },
+    {
+      "realization": "'howeg",
+      "meaning": "cover",
+      "category": "structural"
+    },
+    {
+      "realization": "howeg",
+      "meaning": "cover",
+      "category": "structural"
+    },
+    {
+      "realization": "'howeksi",
+      "meaning": "uncover",
+      "category": "structural"
+    },
+    {
+      "realization": "'howeks",
+      "meaning": "uncover",
+      "category": "structural"
+    },
+    {
+      "realization": "howeksi",
+      "meaning": "uncover",
+      "category": "structural"
+    },
+    {
+      "realization": "howeks",
+      "meaning": "uncover",
+      "category": "structural"
+    },
+    {
+      "realization": "'kaowes",
+      "meaning": "hen-pecked",
+      "category": "structural"
+    },
+    {
+      "realization": "kaowes",
+      "meaning": "hen-pecked",
+      "category": "structural"
+    },
+    {
+      "realization": "'kaodahkwa'",
+      "meaning": "breech cloth",
+      "category": "structural"
+    },
+    {
+      "realization": "kaodahkwa'",
+      "meaning": "breech cloth",
+      "category": "structural"
+    },
+    {
+      "realization": "'nahgod",
+      "meaning": "bee swarm, bee sting",
+      "category": "structural"
+    },
+    {
+      "realization": "nahgod",
+      "meaning": "bee swarm, bee sting",
+      "category": "structural"
+    },
+    {
+      "realization": "'nahgota'",
+      "meaning": "bee",
+      "category": "structural"
+    },
+    {
+      "realization": "nahgota'",
+      "meaning": "bee",
+      "category": "structural"
+    },
+    {
+      "realization": "'nahgwa",
+      "meaning": "wife, marriage",
+      "category": "structural"
+    },
+    {
+      "realization": "'nahg",
+      "meaning": "wife, marriage",
+      "category": "structural"
+    },
+    {
+      "realization": "nahgwa",
+      "meaning": "wife, marriage",
+      "category": "structural"
+    },
+    {
+      "realization": "nahg",
+      "meaning": "wife, marriage",
+      "category": "structural"
+    },
+    {
+      "realization": "'nahkwa",
+      "meaning": "wife, marriage",
+      "category": "structural"
+    },
+    {
+      "realization": "'nahk",
+      "meaning": "wife, marriage",
+      "category": "structural"
+    },
+    {
+      "realization": "nahkwa",
+      "meaning": "wife, marriage",
+      "category": "structural"
+    },
+    {
+      "realization": "nahk",
+      "meaning": "wife, marriage",
+      "category": "structural"
+    },
+    {
+      "realization": "'na'se",
+      "meaning": "poison",
+      "category": "structural"
+    },
+    {
+      "realization": "na'se",
+      "meaning": "poison",
+      "category": "structural"
+    },
+    {
+      "realization": "'meg",
+      "meaning": "pray, hope",
+      "category": "structural"
+    },
+    {
+      "realization": "meg",
+      "meaning": "pray, hope",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsa",
+      "meaning": "sand",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehs",
+      "meaning": "sand",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsa",
+      "meaning": "sand",
+      "category": "structural"
+    },
+    {
+      "realization": "nehs",
+      "meaning": "sand",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsadaihe",
+      "meaning": "desert",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsadaihe",
+      "meaning": "desert",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsadase",
+      "meaning": "sand storm",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsadase",
+      "meaning": "sand storm",
+      "category": "structural"
+    },
+    {
+      "realization": "'nesda",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "'nesd",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "nesda",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "nesd",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "'nosda",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "'nosd",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "nosda",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "nosd",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsiyo",
+      "meaning": "sandpiper",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsiyo",
+      "meaning": "sandpiper",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsogwahta'",
+      "meaning": "sander",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsogwahta'",
+      "meaning": "sander",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhahgya",
+      "meaning": "large log",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhahgy",
+      "meaning": "large log",
+      "category": "structural"
+    },
+    {
+      "realization": "nhahgya",
+      "meaning": "large log",
+      "category": "structural"
+    },
+    {
+      "realization": "nhahgy",
+      "meaning": "large log",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhahda",
+      "meaning": "large log",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhahd",
+      "meaning": "large log",
+      "category": "structural"
+    },
+    {
+      "realization": "nhahda",
+      "meaning": "large log",
+      "category": "structural"
+    },
+    {
+      "realization": "nhahd",
+      "meaning": "large log",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhahgya's",
+      "meaning": "logger",
+      "category": "structural"
+    },
+    {
+      "realization": "nhahgya's",
+      "meaning": "logger",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhehgye'",
+      "meaning": "female, genitals",
+      "category": "structural"
+    },
+    {
+      "realization": "nhehgye'",
+      "meaning": "female, genitals",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehtsa",
+      "meaning": "tail",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehts",
+      "meaning": "tail",
+      "category": "structural"
+    },
+    {
+      "realization": "nehtsa",
+      "meaning": "tail",
+      "category": "structural"
+    },
+    {
+      "realization": "nehts",
+      "meaning": "tail",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhwehtsa",
+      "meaning": "tail",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhwehts",
+      "meaning": "tail",
+      "category": "structural"
+    },
+    {
+      "realization": "nhwehtsa",
+      "meaning": "tail",
+      "category": "structural"
+    },
+    {
+      "realization": "nhwehts",
+      "meaning": "tail",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhehtsedoh",
+      "meaning": "wag",
+      "category": "structural"
+    },
+    {
+      "realization": "nhehtsedoh",
+      "meaning": "wag",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhohda",
+      "meaning": "armpit",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhohd",
+      "meaning": "armpit",
+      "category": "structural"
+    },
+    {
+      "realization": "nhohda",
+      "meaning": "armpit",
+      "category": "structural"
+    },
+    {
+      "realization": "nhohd",
+      "meaning": "armpit",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhohsa",
+      "meaning": "egg",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhohs",
+      "meaning": "egg",
+      "category": "structural"
+    },
+    {
+      "realization": "nhohsa",
+      "meaning": "egg",
+      "category": "structural"
+    },
+    {
+      "realization": "nhohs",
+      "meaning": "egg",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhohsga",
+      "meaning": "inner thigh",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhohsg",
+      "meaning": "inner thigh",
+      "category": "structural"
+    },
+    {
+      "realization": "nhohsga",
+      "meaning": "inner thigh",
+      "category": "structural"
+    },
+    {
+      "realization": "nhohsg",
+      "meaning": "inner thigh",
+      "category": "structural"
+    },
+    {
+      "realization": "'nhohsdod",
+      "meaning": "testicles",
+      "category": "structural"
+    },
+    {
+      "realization": "nhohsdod",
+      "meaning": "testicles",
+      "category": "structural"
+    },
+    {
+      "realization": "'nih",
+      "meaning": "father",
+      "category": "structural"
+    },
+    {
+      "realization": "nih",
+      "meaning": "father",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha",
+      "meaning": "mind",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoh",
+      "meaning": "mind",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha",
+      "meaning": "mind",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoh",
+      "meaning": "mind",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohgae",
+      "meaning": "suffer",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohgae",
+      "meaning": "suffer",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohgahehs",
+      "meaning": "run out of patience, wait impatiently",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohgahehs",
+      "meaning": "run out of patience, wait impatiently",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha'",
+      "meaning": "expect, watch",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha",
+      "meaning": "expect, watch",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha'",
+      "meaning": "expect, watch",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha",
+      "meaning": "expect, watch",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha'",
+      "meaning": "be wary, cautious",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha'",
+      "meaning": "be wary, cautious",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha",
+      "meaning": "monitor",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha",
+      "meaning": "monitor",
+      "category": "structural"
+    },
+    {
+      "realization": "'migohad",
+      "meaning": "elder",
+      "category": "structural"
+    },
+    {
+      "realization": "migohad",
+      "meaning": "elder",
+      "category": "structural"
+    },
+    {
+      "realization": "'migohad",
+      "meaning": "stupid, foolish, ignorant",
+      "category": "structural"
+    },
+    {
+      "realization": "migohad",
+      "meaning": "stupid, foolish, ignorant",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohad",
+      "meaning": "be a nuisance",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohad",
+      "meaning": "be a nuisance",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohad",
+      "meaning": "be smart",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohad",
+      "meaning": "be smart",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha'de",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha'd",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha'de",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha'd",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha'dani",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha'd",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha'dani",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha'd",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha'd",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha'd",
+      "meaning": "cheat, betray",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohadoge",
+      "meaning": "undicided, indecisive",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohadoge",
+      "meaning": "undicided, indecisive",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohahdogeh",
+      "meaning": "immature",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohahdogeh",
+      "meaning": "immature",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohahdo'",
+      "meaning": "faint",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohahdo'",
+      "meaning": "faint",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha'e",
+      "meaning": "offend",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha'e",
+      "meaning": "offend",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha'ehsd",
+      "meaning": "decide",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha'ehsd",
+      "meaning": "decide",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohae",
+      "meaning": "bother s.o., annoy",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha",
+      "meaning": "bother s.o., annoy",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohae",
+      "meaning": "bother s.o., annoy",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha",
+      "meaning": "bother s.o., annoy",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohae",
+      "meaning": "unconcerned, indifferent",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha",
+      "meaning": "unconcerned, indifferent",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohae",
+      "meaning": "unconcerned, indifferent",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha",
+      "meaning": "unconcerned, indifferent",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohanih",
+      "meaning": "unconcerned, indifferent",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigoha",
+      "meaning": "unconcerned, indifferent",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohanih",
+      "meaning": "unconcerned, indifferent",
+      "category": "structural"
+    },
+    {
+      "realization": "nigoha",
+      "meaning": "unconcerned, indifferent",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohaeda'",
+      "meaning": "understand",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohaeda'",
+      "meaning": "understand",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohaeda'",
+      "meaning": "misunderstand",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohaeda'",
+      "meaning": "misunderstand",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohagahey",
+      "meaning": "be mentally exhausted",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohagahe",
+      "meaning": "be mentally exhausted",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohagahey",
+      "meaning": "be mentally exhausted",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohagahe",
+      "meaning": "be mentally exhausted",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohageni",
+      "meaning": "corrupt, intimidate",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohageni",
+      "meaning": "corrupt, intimidate",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohageny",
+      "meaning": "corrupt, intimidate",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohageny",
+      "meaning": "corrupt, intimidate",
+      "category": "structural"
+    },
+    {
+      "realization": "'nigohagod",
+      "meaning": "be uncompromising, steadfast",
+      "category": "structural"
+    },
+    {
+      "realization": "nigohagod",
+      "meaning": "be uncompromising, steadfast",
+      "category": "structural"
+    },
+    {
+      "realization": "a'",
+      "meaning": "be small",
+      "category": "structural"
+    },
+    {
+      "realization": "a'",
+      "meaning": "contain (liquid)",
+      "category": "structural"
+    },
+    {
+      "realization": "ah",
+      "meaning": "spread",
+      "category": "structural"
+    },
+    {
+      "realization": "a",
+      "meaning": "spread",
+      "category": "structural"
+    },
+    {
+      "realization": "a'ah",
+      "meaning": "be small",
+      "category": "structural"
+    },
+    {
+      "realization": "a'awaye'",
+      "meaning": "dew",
+      "category": "structural"
+    },
+    {
+      "realization": "'awaye'",
+      "meaning": "dew",
+      "category": "structural"
+    },
+    {
+      "realization": "a'awayodi",
+      "meaning": "drizzle",
+      "category": "structural"
+    },
+    {
+      "realization": "'awayodi",
+      "meaning": "drizzle",
+      "category": "structural"
+    },
+    {
+      "realization": "ad",
+      "meaning": "be contained in s.t. [A+]",
+      "category": "structural"
+    },
+    {
+      "realization": "ad",
+      "meaning": "be unable to help oneself",
+      "category": "structural"
+    },
+    {
+      "realization": "ad",
+      "meaning": "spread s.t.",
+      "category": "structural"
+    },
+    {
+      "realization": "ahd",
+      "meaning": "be like, resemble",
+      "category": "structural"
+    },
+    {
+      "realization": "hd",
+      "meaning": "be like, resemble",
+      "category": "structural"
+    },
+    {
+      "realization": "ahd",
+      "meaning": "be similar",
+      "category": "structural"
+    },
+    {
+      "realization": "hd",
+      "meaning": "be similar",
+      "category": "structural"
+    },
+    {
+      "realization": "ahd",
+      "meaning": "suddenly",
+      "category": "structural"
+    },
+    {
+      "realization": "hd",
+      "meaning": "suddenly",
+      "category": "structural"
+    },
+    {
+      "realization": "ahd",
+      "meaning": "abruptly",
+      "category": "structural"
+    },
+    {
+      "realization": "hd",
+      "meaning": "abruptly",
+      "category": "structural"
+    },
+    {
+      "realization": "ahd",
+      "meaning": "be the same",
+      "category": "structural"
+    },
+    {
+      "realization": "hd",
+      "meaning": "be the same",
+      "category": "structural"
+    },
+    {
+      "realization": "ahda'",
+      "meaning": "get full of food",
+      "category": "structural"
+    },
+    {
+      "realization": "hda'",
+      "meaning": "get full of food",
+      "category": "structural"
+    },
+    {
+      "realization": "ahdahd",
+      "meaning": "be filling",
+      "category": "structural"
+    },
+    {
+      "realization": "hdahd",
+      "meaning": "be filling",
+      "category": "structural"
+    },
+    {
+      "realization": "a'dadani",
+      "meaning": "be reliable, dependable",
+      "category": "structural"
+    },
+    {
+      "realization": "'dadani",
+      "meaning": "be reliable, dependable",
+      "category": "structural"
+    },
+    {
+      "realization": "adadawi",
+      "meaning": "redeem, trade, exchange",
+      "category": "structural"
+    },
+    {
+      "realization": "dadawi",
+      "meaning": "redeem, trade, exchange",
+      "category": "structural"
+    },
+    {
+      "realization": "adado",
+      "meaning": "trade, redeem, exchange",
+      "category": "structural"
+    },
+    {
+      "realization": "dado",
+      "meaning": "trade, redeem, exchange",
+      "category": "structural"
+    },
+    {
+      "realization": "adade'dre's",
+      "meaning": "be self-propelled",
+      "category": "structural"
+    },
+    {
+      "realization": "dade'dre's",
+      "meaning": "be self-propelled",
+      "category": "structural"
+    },
+    {
+      "realization": "adadehsnyeh",
+      "meaning": "groom oneself",
+      "category": "structural"
+    },
+    {
+      "realization": "dadehsnyeh",
+      "meaning": "groom oneself",
+      "category": "structural"
+    },
+    {
+      "realization": "adahdi'tra",
+      "meaning": "sock",
+      "category": "structural"
+    },
+    {
+      "realization": "adahdi'tr",
+      "meaning": "sock",
+      "category": "structural"
+    },
+    {
+      "realization": "dahdi'tra",
+      "meaning": "sock",
+      "category": "structural"
+    },
+    {
+      "realization": "dahdi'tr",
+      "meaning": "sock",
+      "category": "structural"
+    },
+    {
+      "realization": "adahdi'trod",
+      "meaning": "panty hose",
+      "category": "structural"
+    },
+    {
+      "realization": "dahdi'trod",
+      "meaning": "panty hose",
+      "category": "structural"
+    },
+    {
+      "realization": "adadoge",
+      "meaning": "between",
+      "category": "structural"
+    },
+    {
+      "realization": "dadoge",
+      "meaning": "between",
+      "category": "structural"
+    },
+    {
+      "realization": "adahdo'd",
+      "meaning": "corrupt s.o.",
+      "category": "structural"
+    },
+    {
+      "realization": "dahdo'd",
+      "meaning": "corrupt s.o.",
+      "category": "structural"
+    },
+    {
+      "realization": "adadohweja'eg",
+      "meaning": "be buried",
+      "category": "structural"
+    },
+    {
+      "realization": "dadohweja'eg",
+      "meaning": "be buried",
+      "category": "structural"
+    },
+    {
+      "realization": "adadrihonye",
+      "meaning": "read",
+      "category": "structural"
+    },
+    {
+      "realization": "adadrihony",
+      "meaning": "read",
+      "category": "structural"
+    },
+    {
+      "realization": "dadrihonye",
+      "meaning": "read",
+      "category": "structural"
+    },
+    {
+      "realization": "dadrihony",
+      "meaning": "read",
+      "category": "structural"
+    },
+    {
+      "realization": "adadrihonyani",
+      "meaning": "read",
+      "category": "structural"
+    },
+    {
+      "realization": "adadrihony",
+      "meaning": "read",
+      "category": "structural"
+    },
+    {
+      "realization": "dadrihonyani",
+      "meaning": "read",
+      "category": "structural"
+    },
+    {
+      "realization": "dadrihony",
+      "meaning": "read",
+      "category": "structural"
+    },
+    {
+      "realization": "adadriyo",
+      "meaning": "commit suicide",
+      "category": "structural"
+    },
+    {
+      "realization": "dadriyo",
+      "meaning": "commit suicide",
+      "category": "structural"
+    },
+    {
+      "realization": "adadrohege",
+      "meaning": "accumulate for oneself",
+      "category": "structural"
+    },
+    {
+      "realization": "dadrohege",
+      "meaning": "accumulate for oneself",
+      "category": "structural"
+    },
+    {
+      "realization": "adadwedehd",
+      "meaning": "forfeit",
+      "category": "structural"
+    },
+    {
+      "realization": "dadwedehd",
+      "meaning": "forfeit",
+      "category": "structural"
+    },
+    {
+      "realization": "adagaide'",
+      "meaning": "be healthy, well, fine",
+      "category": "structural"
+    },
+    {
+      "realization": "dagaide'",
+      "meaning": "be healthy, well, fine",
+      "category": "structural"
+    },
+    {
+      "realization": "adagaide'",
+      "meaning": "feel sick",
+      "category": "structural"
+    },
+    {
+      "realization": "dagaide'",
+      "meaning": "feel sick",
+      "category": "structural"
+    },
+    {
+      "realization": "adahgahsdo",
+      "meaning": "endure",
+      "category": "structural"
+    },
+    {
+      "realization": "adahgahsd",
+      "meaning": "endure",
+      "category": "structural"
+    },
+    {
+      "realization": "dahgahsdo",
+      "meaning": "endure",
+      "category": "structural"
+    },
+    {
+      "realization": "dahgahsd",
+      "meaning": "endure",
+      "category": "structural"
+    },
+    {
+      "realization": "ne'oneh",
+      "meaning": "it is now",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsa",
+      "meaning": "sand",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehs",
+      "meaning": "sand",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsa",
+      "meaning": "sand",
+      "category": "structural"
+    },
+    {
+      "realization": "nehs",
+      "meaning": "sand",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsadaihe",
+      "meaning": "desert",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsadaihe",
+      "meaning": "desert",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsadase",
+      "meaning": "sand storm",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsadase",
+      "meaning": "sand storm",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsda",
+      "meaning": "floor, board",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsd",
+      "meaning": "floor, board",
+      "category": "structural"
+    },
+    {
+      "realization": "'nesda",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "'nesd",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "nesda",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "nesd",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "'nosda",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "'nosd",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "nosda",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "nosd",
+      "meaning": "nudity",
+      "category": "structural"
+    },
+    {
+      "realization": "nesdadenyo'",
+      "meaning": "rafter",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsdaod",
+      "meaning": "headboards",
+      "category": "structural"
+    },
+    {
+      "realization": "nehshehe",
+      "meaning": "dogfish",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsiyo",
+      "meaning": "sandpiper",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsiyo",
+      "meaning": "sandpiper",
+      "category": "structural"
+    },
+    {
+      "realization": "nehwa",
+      "meaning": "skin, leather",
+      "category": "structural"
+    },
+    {
+      "realization": "neh",
+      "meaning": "skin, leather",
+      "category": "structural"
+    },
+    {
+      "realization": "nehwiya'g",
+      "meaning": "circumsize",
+      "category": "structural"
+    },
+    {
+      "realization": "'nehsogwahta'",
+      "meaning": "sander",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsogwahta'",
+      "meaning": "sander",
+      "category": "structural"
+    },
+    {
+      "realization": "netogye'",
+      "meaning": "be it so",
+      "category": "structural"
+    },
+    {
+      "realization": "netogyenhoweh",
+      "meaning": "it is where",
+      "category": "structural"
+    },
+    {
+      "realization": "netogyehoweh",
+      "meaning": "it is where",
+      "category": "structural"
+    },
+    {
+      "realization": "ne'tone'",
+      "meaning": "that's the one",
+      "category": "structural"
+    },
+    {
+      "realization": "ne'tso",
+      "meaning": "that is only, that is all",
+      "category": "structural"
+    },
+    {
+      "realization": "ne'hwa'",
+      "meaning": "next",
+      "category": "structural"
+    },
+    {
+      "realization": "neyohs",
+      "meaning": "clinic",
+      "category": "structural"
+    },
+    {
+      "realization": "ne'da",
+      "meaning": "evergreen, confider",
+      "category": "structural"
+    },
+    {
+      "realization": "ne'd",
+      "meaning": "evergreen, confider",
+      "category": "structural"
+    },
+    {
+      "realization": "nedah",
+      "meaning": "this here",
+      "category": "structural"
+    },
+    {
+      "realization": "ne'dagayoh",
+      "meaning": "pine",
+      "category": "structural"
+    },
+    {
+      "realization": "ne'de's",
+      "meaning": "pine cones",
+      "category": "structural"
+    },
+    {
+      "realization": "ne'dod",
+      "meaning": "pine cone",
+      "category": "structural"
+    },
+    {
+      "realization": "nehgwih",
+      "meaning": "courier",
+      "category": "structural"
+    },
+    {
+      "realization": "negyeh",
+      "meaning": "this (one)",
+      "category": "structural"
+    },
+    {
+      "realization": "nehaita'",
+      "meaning": "corn bug, corn napper",
+      "category": "structural"
+    },
+    {
+      "realization": "nehe",
+      "meaning": "corn",
+      "category": "structural"
+    },
+    {
+      "realization": "neh",
+      "meaning": "corn",
+      "category": "structural"
+    },
+    {
+      "realization": "nehe",
+      "meaning": "guard",
+      "category": "structural"
+    },
+    {
+      "realization": "nehesdod",
+      "meaning": "roasted whole corn",
+      "category": "structural"
+    },
+    {
+      "realization": "nehohgwa'",
+      "meaning": "lyed corn soup",
+      "category": "structural"
+    },
+    {
+      "realization": "nehohato",
+      "meaning": "lyed corn",
+      "category": "structural"
+    },
+    {
+      "realization": "nenoga",
+      "meaning": "hickory",
+      "category": "structural"
+    },
+    {
+      "realization": "nenog",
+      "meaning": "hickory",
+      "category": "structural"
+    },
+    {
+      "realization": "neno'",
+      "meaning": "thimbleberry",
+      "category": "structural"
+    },
+    {
+      "realization": "nenya",
+      "meaning": "husk",
+      "category": "structural"
+    },
+    {
+      "realization": "neny",
+      "meaning": "husk",
+      "category": "structural"
+    },
+    {
+      "realization": "nonya",
+      "meaning": "husk",
+      "category": "structural"
+    },
+    {
+      "realization": "nony",
+      "meaning": "husk",
+      "category": "structural"
+    },
+    {
+      "realization": "nenyo'gwa",
+      "meaning": "pill",
+      "category": "structural"
+    },
+    {
+      "realization": "nenyo'g",
+      "meaning": "pill",
+      "category": "structural"
+    },
+    {
+      "realization": "hnehsa",
+      "meaning": "shoulder",
+      "category": "structural"
+    },
+    {
+      "realization": "hnehs",
+      "meaning": "shoulder",
+      "category": "structural"
+    },
+    {
+      "realization": "nehsa",
+      "meaning": "shoulder",
+      "category": "structural"
+    },
+    {
+      "realization": "nehs",
+      "meaning": "shoulder",
+      "category": "structural"
+    }
+  ],
+  "verbs": [
+    {
+      "realization": "'diaha'd",
+      "meaning": "warm up, heat up ",
+      "category": "transitive"
+    },
+    {
+      "realization": "diaha'd",
+      "meaning": "warm up, heat up ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'daiha'seh",
+      "meaning": "be too hot ",
+      "category": "transitive"
+    },
+    {
+      "realization": "daiha'seh",
+      "meaning": "be too hot ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'daihe",
+      "meaning": "hot ",
+      "category": "transitive"
+    },
+    {
+      "realization": "daihe",
+      "meaning": "hot ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'daihehdrahi",
+      "meaning": "sweat, perspire ",
+      "category": "transitive"
+    },
+    {
+      "realization": "daihehdrahi",
+      "meaning": "sweat, perspire ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'dahswahedro",
+      "meaning": "scold ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'dahswahe",
+      "meaning": "scold ",
+      "category": "transitive"
+    },
+    {
+      "realization": "dahswahedro",
+      "meaning": "scold ",
+      "category": "transitive"
+    },
+    {
+      "realization": "dahswahe",
+      "meaning": "scold ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'do",
+      "meaning": "be due, be child-bearing, give birth ",
+      "category": "transitive"
+    },
+    {
+      "realization": "do",
+      "meaning": "be due, be child-bearing, give birth ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'draiha'd",
+      "meaning": "rush, hurry up ",
+      "category": "transitive"
+    },
+    {
+      "realization": "draiha'd",
+      "meaning": "rush, hurry up ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'draihe",
+      "meaning": "hurry ",
+      "category": "transitive"
+    },
+    {
+      "realization": "draihe",
+      "meaning": "hurry ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'dre",
+      "meaning": "drag, drive ",
+      "category": "transitive"
+    },
+    {
+      "realization": "dre",
+      "meaning": "drag, drive ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'drehd",
+      "meaning": "move oneself ",
+      "category": "transitive"
+    },
+    {
+      "realization": "drehd",
+      "meaning": "move oneself ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'drehdae",
+      "meaning": "park one's vehicle ",
+      "category": "transitive"
+    },
+    {
+      "realization": "drehdae",
+      "meaning": "park one's vehicle ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'droda'",
+      "meaning": "be placed, live, stay at home ",
+      "category": "transitive"
+    },
+    {
+      "realization": "droda'",
+      "meaning": "be placed, live, stay at home ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'ka",
+      "meaning": "be hen-pecked ",
+      "category": "transitive"
+    },
+    {
+      "realization": "'k",
+      "meaning": "be hen-pecked ",
+      "category": "transitive"
+    },
+    {
+      "realization": "ka",
+      "meaning": "be hen-pecked ",
+      "category": "transitive"
+    },
+    {
+      "realization": "k",
+      "meaning": "be hen-pecked ",
+      "category": "transitive"
+    },
+    {
+      "realization": "neno",
+      "meaning": "warm ",
+      "category": "transitive"
+    },
+    {
+      "realization": "ne'wahde",
+      "meaning": "startle, surprise ",
+      "category": "transitive"
+    },
+    {
+      "realization": "ne'wahd",
+      "meaning": "startle, surprise ",
+      "category": "transitive"
+    },
+    {
+      "realization": "ne'wade",
+      "meaning": "startle, surprise ",
+      "category": "transitive"
+    },
+    {
+      "realization": "ne'wad",
+      "meaning": "startle, surprise ",
+      "category": "transitive"
+    },
+    {
+      "realization": "ne'wahdani",
+      "meaning": "startle, surprise ",
+      "category": "transitive"
+    },
+    {
+      "realization": "ne'wadani",
+      "meaning": "startle, surprise ",
+      "category": "transitive"
+    },
+    {
+      "realization": "ne'wa",
+      "meaning": "be unexpected, become surprised ",
+      "category": "transitive"
+    },
+    {
+      "realization": "neyo",
+      "meaning": "heal ",
+      "category": "transitive"
+    },
+    {
+      "realization": "nehgwi",
+      "meaning": "haul ",
+      "category": "transitive"
+    },
+    {
+      "realization": "nehed",
+      "meaning": "stand in a line, guard ",
+      "category": "transitive"
+    },
+    {
+      "realization": "nehedas",
+      "meaning": "barn raising, working bee ",
+      "category": "transitive"
+    },
+    {
+      "realization": "nehesroni",
+      "meaning": "stand in line ",
+      "category": "transitive"
+    },
+    {
+      "realization": "hnehsedoh",
+      "meaning": "shrug ",
+      "category": "transitive"
+    },
+    {
+      "realization": "nehsedoh",
+      "meaning": "shrug ",
+      "category": "transitive"
+    },
+    {
+      "realization": "nehsgw",
+      "meaning": "steal ",
+      "category": "transitive"
+    },
+    {
+      "realization": "nehsgo",
+      "meaning": "steal ",
+      "category": "transitive"
+    }
+  ]
+}

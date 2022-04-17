@@ -1,0 +1,25 @@
+{
+  "nouns": [
+    {
+      "realization": "nęh(ę)",
+      "meaning": "corn",
+      "category": "structural"
+    },
+    {
+      "realization": "neh(wa)",
+      "meaning": "skin, leather",
+      "category": "structural"
+    },
+    {
+      "realization": "(')nehs(a)",
+      "meaning": "sand",
+      "category": "structural"
+    },
+    {
+      "realization": "(')nih",
+      "meaning": "father",
+      "category": "animate"
+    }
+  ],
+  "verbs": []
+}
